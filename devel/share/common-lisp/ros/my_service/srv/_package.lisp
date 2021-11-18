@@ -1,0 +1,10 @@
+(cl:defpackage my_service-srv
+  (:use )
+  (:export
+   "FINDDETERMINANT"
+   "<FINDDETERMINANT-REQUEST>"
+   "FINDDETERMINANT-REQUEST"
+   "<FINDDETERMINANT-RESPONSE>"
+   "FINDDETERMINANT-RESPONSE"
+  ))
+

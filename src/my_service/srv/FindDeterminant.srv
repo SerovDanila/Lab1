@@ -1,0 +1,11 @@
+int32 c1_r1
+int32 c2_r1
+int32 c3_r1
+int32 c1_r2
+int32 c2_r2
+int32 c3_r2
+int32 c1_r3
+int32 c2_r3
+int32 c3_r3
+---
+float32 determinant
