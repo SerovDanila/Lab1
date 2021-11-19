@@ -10,7 +10,9 @@ roscore
 2 терминал 
 
 catkin_make
+
 source devel/setup.bash
+
 rosrun client_server server
 
 3 терминал (для топика)
